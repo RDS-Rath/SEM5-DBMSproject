@@ -1,0 +1,39 @@
+{
+    "name": "mini-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "@npmcli/fs": "^9.6.7",
+      "express": "^4.17.1",
+      "sqlite3": "^5.0.0",
+      "cors": "^2.8.5"
+
+    },
+    
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": " "
+    },
+    "keywords": [
+      "cricket",
+      "dashboard",
+      "web app"
+
+    ],
+    "author": "Dhanush, Rishi",
+    "license": " ",
+    "bugs": {
+      "url": " "
+    },
+    "homepage": " ",
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
